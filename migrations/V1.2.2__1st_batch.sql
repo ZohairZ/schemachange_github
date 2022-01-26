@@ -1,0 +1,11 @@
+USE SCHEMA DEMO;
+INSERT INTO HELLO_WORLD (FIRST_NAME, LAST_NAME, AGE)
+    values 
+    ('KATE','CASSIDY', 21),
+    ('GANDALF','GREY', 120),
+    ('THOR','ODINSON', 99),
+    ('BILBO','BAGGINS', 85),
+    ('TONY','STARK', 43),
+    ('BRUCE','BANNER', 45),
+    ('NATASHA','ROMANOV', 31),
+    ('LARA','CROFT', 29)
